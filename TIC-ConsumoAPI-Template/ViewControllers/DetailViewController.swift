@@ -4,7 +4,7 @@
 //
 //  Created by Marina De Pazzi on 19/04/23.
 //  Modified by Geovana Contine on 10/04/24.
-//
+//  Modified by Gisele on 17/07/24
 
 import UIKit
 
@@ -25,7 +25,6 @@ class DetailViewController: UIViewController {
         // Load movie poster
         fetchPoster()
     }
-    
     private func fetchPoster(){
         DispatchQueue.global().async { [weak self] in
             guard let url = URL(string: self?.movie.posterPath ?? " ") else { return }//url da imagem
