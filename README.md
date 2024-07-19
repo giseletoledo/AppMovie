@@ -10,5 +10,9 @@ e apresente seus detalhes (incluindo como desafio extra apresentar o cartaz dest
 - Tratamento dos dados recebidos   
 - Tratamento de chamadas assíncronas
 
+<p align="center">
+<img width="20%" src="https://github.com/giseletoledo/AppMovie/blob/main/AppMovei_iPhone_15_Pro.gif" alt="Tela da página listando filmes">
+</p>
+
 ## Tic em trilhas
 <p>Iniciativa em parceria com TIC em Trilhas e parte integrante do projeto Residência em TIC 01, Residência em TIC 02 e Residência em TIC 21. Projetos apoiados pelo Ministério da Ciência, Tecnologia e Inovações, com recursos da Lei n° 8.248/91, sendo uma iniciativa do Ministério da Ciência, Tecnologia e Inovações e Softex no âmbito do Programa MCTI Futuro.</p>
